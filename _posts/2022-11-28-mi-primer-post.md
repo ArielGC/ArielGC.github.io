@@ -2,4 +2,8 @@
 layout: post
 title: Resumen de Clases
 ---
-Hola mundo
+
+**Clase 6**
+Justicia, explicabilidad y transparencia
+
+
