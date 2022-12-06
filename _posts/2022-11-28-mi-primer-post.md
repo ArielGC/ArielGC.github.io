@@ -7,4 +7,18 @@ title: Resumen de Clases
 
 Justicia, explicabilidad y transparencia
 
+Dado el creciente nivel de complejidad que han ido adoptando los algoritmos de recomendación ha surgido una necesidad de explicadbilidad los los resultados que estos entrega, sobre todo en dominios críticos que involucren, por su naturaleza, situaciones delicadas. 
 
+Ya que esto es cada vez más díficil actualmente se investigan distintas formas de suplir esta demanda de explicabilidad, y entre ellas se encuentran el concepto de "Atención" (herramienta para que, a través de pesos, el modelo aprenda dónde debe fijarse) así como también las interfaces de visualización, que mezclan distintos conceptos gráficos para que el usuario solicitante pueda entender cómo está funcionando el algoritmo. Se tienen, por ende, muchos desafíos de cara a esta área (uno de estos es la explicabilidad en los procesadores de lenguaje natural).
+
+
+Recomendar y hacer explicaciones de lo que e está recomendado tiene un efecto importante en como el usuario percibe la interfaz.
+
+Fuentes de inequidad y discriminación al aplicar machine learning: Comúnmente se pensaba que provenian únicamente desde los datos, pero estudio de 2019 (SIGIR and RecSys. Diaz, Ekstrand & Burke) identifica que estos pueden venir desde cualquiera de las estapas de construcción del modelo
+
+![image](https://user-images.githubusercontent.com/63074428/206024257-3370baac-ba07-490d-8931-4fafe107f20a.png)
+
+En esta línea, entre los desafíos actuales se encuentran:
+- Falta de datos para identificar diferencias que pudiesen causar sesgo o discriminación
+- Dificultad para deicidir consenso de qué es lo justo (no sesgado)
+- Percepción justa para ambas partes, consumidores y productores.
