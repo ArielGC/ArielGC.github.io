@@ -16,7 +16,10 @@ Recomendar y hacer explicaciones de lo que e está recomendado tiene un efecto i
 
 Fuentes de inequidad y discriminación al aplicar machine learning: Comúnmente se pensaba que provenian únicamente desde los datos, pero estudio de 2019 (SIGIR and RecSys. Diaz, Ekstrand & Burke) identifica que estos pueden venir desde cualquiera de las estapas de construcción del modelo
 
-![image](https://user-images.githubusercontent.com/63074428/206024257-3370baac-ba07-490d-8931-4fafe107f20a.png)
+
+<img alt="Image description" src="https://user-images.githubusercontent.com/63074428/206024257-3370baac-ba07-490d-8931-4fafe107f20a.png" title="Etapas de construcción de modelo" width="600" />
+*Etapas de la construcción de un modelo de machine learning.*
+
 
 En esta línea, entre los desafíos actuales se encuentran:
 - Falta de datos para identificar diferencias que pudiesen causar sesgo o discriminación
