@@ -18,6 +18,7 @@ Fuentes de inequidad y discriminación al aplicar machine learning: Comúnmente 
 
 
 <img alt="Image description" src="https://user-images.githubusercontent.com/63074428/206024257-3370baac-ba07-490d-8931-4fafe107f20a.png" title="Etapas de construcción de modelo" width="600" />
+
 *Etapas de la construcción de un modelo de machine learning.*
 
 
