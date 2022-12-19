@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Licenciado en Astronomía, actualmente estudiante del magister en estadística UC.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Me llama la atención el machine learning y el análisis de datos en general.
+Me gusta jugar videojuegos y ver series.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[aagonzalez6@uc.cl](mailto:aagonzalez6@uc.cl)
